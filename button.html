@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Button without button tag</title>
+    <style>
+        .button{
+            position: absolute;
+            text-decoration: none;
+            border: 2px #7F8C8D solid;
+            border-radius: 9px;
+            margin-top: -5%;
+            margin-left: -5%;
+            left: 50%;
+            top: 50%;
+            color: white;
+            padding: 20px 50px;
+            font-weight: bold;
+            background-image: linear-gradient(to right,#7F8C8D 0%, #8F9B8E 51%,#000000 100%);
+            transition: 0.5s;
+        }
+        .button:hover{
+            background-image: linear-gradient(to left, #7F8C8D 0%,#000000 100%);
+            /* background-position: right center; */
+        }
+    </style>
+</head>
+<body>
+    <a class="button" href="https://github.com/Neerazan" target="_blank">CLICK ME</a>
+</body>
+</html>
