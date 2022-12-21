@@ -1,0 +1,15 @@
+C:\Users\Neerajan Dhakal\source\repos\OOP\OOP\bin\Debug\net6.0\OOP.exe
+C:\Users\Neerajan Dhakal\source\repos\OOP\OOP\bin\Debug\net6.0\OOP.deps.json
+C:\Users\Neerajan Dhakal\source\repos\OOP\OOP\bin\Debug\net6.0\OOP.runtimeconfig.json
+C:\Users\Neerajan Dhakal\source\repos\OOP\OOP\bin\Debug\net6.0\OOP.dll
+C:\Users\Neerajan Dhakal\source\repos\OOP\OOP\bin\Debug\net6.0\OOP.pdb
+C:\Users\Neerajan Dhakal\source\repos\OOP\OOP\obj\Debug\net6.0\OOP.csproj.AssemblyReference.cache
+C:\Users\Neerajan Dhakal\source\repos\OOP\OOP\obj\Debug\net6.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neerajan Dhakal\source\repos\OOP\OOP\obj\Debug\net6.0\OOP.AssemblyInfoInputs.cache
+C:\Users\Neerajan Dhakal\source\repos\OOP\OOP\obj\Debug\net6.0\OOP.AssemblyInfo.cs
+C:\Users\Neerajan Dhakal\source\repos\OOP\OOP\obj\Debug\net6.0\OOP.csproj.CoreCompileInputs.cache
+C:\Users\Neerajan Dhakal\source\repos\OOP\OOP\obj\Debug\net6.0\OOP.dll
+C:\Users\Neerajan Dhakal\source\repos\OOP\OOP\obj\Debug\net6.0\refint\OOP.dll
+C:\Users\Neerajan Dhakal\source\repos\OOP\OOP\obj\Debug\net6.0\OOP.pdb
+C:\Users\Neerajan Dhakal\source\repos\OOP\OOP\obj\Debug\net6.0\OOP.genruntimeconfig.cache
+C:\Users\Neerajan Dhakal\source\repos\OOP\OOP\obj\Debug\net6.0\ref\OOP.dll

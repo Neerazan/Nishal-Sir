@@ -1,0 +1,15 @@
+C:\Users\Neerajan Dhakal\source\repos\WA\WA\bin\Debug\net6.0\WA.exe
+C:\Users\Neerajan Dhakal\source\repos\WA\WA\bin\Debug\net6.0\WA.deps.json
+C:\Users\Neerajan Dhakal\source\repos\WA\WA\bin\Debug\net6.0\WA.runtimeconfig.json
+C:\Users\Neerajan Dhakal\source\repos\WA\WA\bin\Debug\net6.0\WA.dll
+C:\Users\Neerajan Dhakal\source\repos\WA\WA\bin\Debug\net6.0\WA.pdb
+C:\Users\Neerajan Dhakal\source\repos\WA\WA\obj\Debug\net6.0\WA.csproj.AssemblyReference.cache
+C:\Users\Neerajan Dhakal\source\repos\WA\WA\obj\Debug\net6.0\WA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neerajan Dhakal\source\repos\WA\WA\obj\Debug\net6.0\WA.AssemblyInfoInputs.cache
+C:\Users\Neerajan Dhakal\source\repos\WA\WA\obj\Debug\net6.0\WA.AssemblyInfo.cs
+C:\Users\Neerajan Dhakal\source\repos\WA\WA\obj\Debug\net6.0\WA.csproj.CoreCompileInputs.cache
+C:\Users\Neerajan Dhakal\source\repos\WA\WA\obj\Debug\net6.0\WA.dll
+C:\Users\Neerajan Dhakal\source\repos\WA\WA\obj\Debug\net6.0\refint\WA.dll
+C:\Users\Neerajan Dhakal\source\repos\WA\WA\obj\Debug\net6.0\WA.pdb
+C:\Users\Neerajan Dhakal\source\repos\WA\WA\obj\Debug\net6.0\WA.genruntimeconfig.cache
+C:\Users\Neerajan Dhakal\source\repos\WA\WA\obj\Debug\net6.0\ref\WA.dll
